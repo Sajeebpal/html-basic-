@@ -1,0 +1,45 @@
+h2{
+    background-color: bisque;
+    padding: 10px;
+
+}
+
+.text-center{
+    color: red;
+    text-align: center;
+}
+
+.radius{
+    border: 3px solid blueviolet;
+    border-radius: 50px 10px 10px 50px;
+    text-align: center;
+}
+
+#width{
+    width: 50%;
+    text-align: justify;
+    background-color: rgb(83, 147, 243);
+    padding: 10px;
+    /* border: 3px solid red; */
+    border-radius: 10px;
+    box-shadow:5px 5px 7px rgba(0, 0, 0, 0.253);
+}
+
+.flex{
+    width: 50%;
+    display: flex;
+    justify-content: center;
+    background-color: antiquewhite;
+    
+}
+
+.bg_image{
+
+    width: 600px;
+    height: 400 px;
+    padding: 10px;
+    background-image: url('../Images/nature.jpg');
+    background-repeat: repeat-x;
+    background-size: contain;
+}
+
